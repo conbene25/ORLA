@@ -6,3 +6,5 @@ ORLA consists of two parts:
 After completing the Self-Assessment you will be given a personalized prompt text and detailed instructions how to use 'Orla' with any GenAI tool you prefer.
 
 Both are the result of a working group activity during the [Oulu Löyly 2026](https://meta.wikimedia.org/wiki/Oulu_L%C3%B6yly), held between 8 and 10 June 2026 in Oulu, Finland. As such the current version should be considered a prototype and proof-of-concept. Find out more about the [work process](https://meta.wikimedia.org/wiki/Oulu_L%C3%B6yly/Documentation/ORLA_-_Open_Resource_%26_Learning_Assistant) that led to ORLA.
+
+Try it live: https://conbene25.github.io/ORLA/
